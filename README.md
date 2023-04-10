@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on porting an investment web app to Android<br>👯 I’m looking to collaborate on open-source, non-profit software projects<br>🌱 I’m currently learning React Native + Data Structures and Algorithms<br>💬 Ask me about setting up coffee chats! I enjoy making new friends
+🔭 I’m currently working on creating a mobile app for CASA<br>👯 I’m looking to collaborate on open-source, non-profit software projects<br>🌱 I’m currently learning React Native + Data Structures and Algorithms<br>💬 Ask me about setting up coffee chats! I enjoy making new friends
 
 
 ## 🌐 Socials:
